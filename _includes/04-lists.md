@@ -1,5 +1,5 @@
--Item Apples
+-Apples
 
--Item Bananas
+-Bananas
 
--Item Pear 
+-Pear 
