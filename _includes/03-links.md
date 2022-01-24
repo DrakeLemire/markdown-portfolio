@@ -1,1 +1,1 @@
-[Chess] https://www.chess.com/home
+[Chess](https://www.chess.com/home)
